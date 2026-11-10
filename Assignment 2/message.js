@@ -4,7 +4,6 @@
 // and then displays "Completed!" after two seconds by using setTimeout().
 
 
-
 function showMessage()
 {
     console.log("Processing...")
