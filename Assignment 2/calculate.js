@@ -2,7 +2,6 @@
 // ------------------------------
 // Write a function calculate(a, b, operation) that accepts another function as its third argument.
 
-
 function calculate(a, b, operation)
 {
     return operation(a,b)
