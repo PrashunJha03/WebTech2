@@ -22,7 +22,6 @@ function mul(a,b)
     return "Multiplication : " + (a * b)
 }
 
-
 console.log(calculate(5,3,add))
 console.log(calculate(5,3,sub))
 console.log(calculate(5,3,mul))
